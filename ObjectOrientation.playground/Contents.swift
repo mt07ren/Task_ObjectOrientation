@@ -42,3 +42,4 @@ yusha.name = "松本"
 senshi.attackKen()
 yusha.attackMaho()
 
+/*aaaa*/
